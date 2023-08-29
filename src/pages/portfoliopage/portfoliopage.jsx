@@ -11,6 +11,7 @@ const PortfolioPage = () => {
 
   return (
     <PortfolioPageContainer>
+      <h2>Portfolio</h2>
       <ColoredDiv
         bg={({ theme }) => theme.palletGreen}
         fc={({ theme }) => theme.palletPurpleFont}

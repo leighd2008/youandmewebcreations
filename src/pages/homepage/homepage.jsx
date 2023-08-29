@@ -8,6 +8,7 @@ import { HomePageContainer } from "./homepage.styles";
 const HomePage = () => {
   return (
     <HomePageContainer background="palletGreen">
+      <h2>About us</h2>
       <Profiler
         id="home"
         onRender={(id, phase, actualDuration) => {

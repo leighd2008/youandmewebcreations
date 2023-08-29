@@ -9,6 +9,7 @@ import { ContactPageContainer } from "./contactpage.styles";
 const ContactPage = () => {
   return (
     <ContactPageContainer>
+      <h2>Contact Us</h2>
       <ColoredDiv
         id={'contact'}
         bg={({ theme }) => theme.palletPurple}
