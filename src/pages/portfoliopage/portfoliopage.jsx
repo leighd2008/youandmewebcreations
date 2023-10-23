@@ -17,7 +17,7 @@ const PortfolioPage = () => {
         fc={({ theme }) => theme.palletPurpleFont}
         website={
           <a
-            href="http://www.fire-fastpitch.com/"
+            href="https://leighd2008.github.io/firefastpitch/"
             rel="noopener noreferrer"
             target="_blank"
           >
